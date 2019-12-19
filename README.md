@@ -11,8 +11,8 @@ it was done by using these software
 2)Mysql
 3)HTMl,CSS,PHP,Js
 
-For working of these project adjust FUNCTION.php file according to your phpMyadmin password if you don't have pwd remove the password " ",and import multibank.sql to phpmyadmin and name the database as multibank
+To work on this project adjust FUNCTION.php file according to your phpMyadmin password if you don't have any pwd then  default password will be root ,and import multibank.sql to phpmyadmin and name the database as multibank
 
-this project was partially completed like upto user module only, for admin and manager modules
+this project was partially completed , upto user module only, for admin and manager modules
 i'm still working.
 credits:Dr Bhatia
